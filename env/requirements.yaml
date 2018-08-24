@@ -12,4 +12,4 @@ dependencies:
   version: 0.0.15
 - name: goland-http5
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.20
+  version: v0.0.21
